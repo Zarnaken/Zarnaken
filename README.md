@@ -1,4 +1,6 @@
-## Hi there 👋
+Expanding my resources, don't mind me.  Unless you do want to mind me, then mind me.
+I'm currently shaking off the rust. 📖🖋️
+
 
 <!--
 **Zarnaken/Zarnaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
